@@ -334,4 +334,7 @@ strong {
     aside {
         display: none;
     }
+    .img-wrap {
+        width: 46%;
+    }
 }
